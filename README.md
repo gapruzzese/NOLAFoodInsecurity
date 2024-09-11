@@ -27,19 +27,20 @@ sign up for them will be included on the webpage to help the community to learn 
 benefits of healthy eating and efficient spending on healthy foods. Through all these efforts, the
 website will play an important role in eliminating food insecurity in New Orleans.
 
-Feedback from Users:
-“The website does a really good job of laying out the problem of food insecurity in NOLA,
+# Feedback from Users:
+
+MPA Student: “The website does a really good job of laying out the problem of food insecurity in NOLA,
 providing clear information about how food insecurity is measured. It does this in a way that is
 easy to access for readers, making it a useful awareness tool. The included maps and graphics
 enhance the points being made in the text of the site and provide visual interest. The
 organization of the website is easy to follow and informative while remaining concise and
 accessible, making it a great awareness building tool for NOLA.”
-- MPA Student
-“The NOLA Office of Food Justice Website is helpful to the people of NOLA because it is easy to
+
+Legal Assistant: “The NOLA Office of Food Justice Website is helpful to the people of NOLA because it is easy to
 use and understand. The website includes graphics to demonstrate its thinking, and provides an
 adequate solution to how the city is attempting to combat food insecurity.”
-- Legal Assistant
-“The website quickly opens dialogue by allowing residents to get updated information on food
+
+MPA Student: “The website quickly opens dialogue by allowing residents to get updated information on food
 insecurity by joining the email list. It is very easy to find the information so they don’t have to
 navigate a complicated webpage. This is aided by great visuals to help understand the issue.”
-- MPA Student
+
